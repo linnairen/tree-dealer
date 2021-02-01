@@ -1,6 +1,6 @@
 {
   "name": "tree-dealer",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "deal with the tree data",
   "main": "./dist/index.js",
   "scripts": {
@@ -16,7 +16,8 @@
   },
   "keywords": [
     "tree-data",
-    "typescript"
+    "typescript",
+    "tree-dealer"
   ],
   "author": "linnairen@qq.com",
   "license": "ISC"

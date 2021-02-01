@@ -5,7 +5,7 @@ const webpack = require('webpack');
 
 module.exports = {
   entry: {
-    index: './index.ts'
+    index: './src/index.ts'
   },
   devtool: 'cheap-source-map',
   module:{   // new add +
