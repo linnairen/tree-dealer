@@ -138,7 +138,7 @@ export namespace Tree {
    * @param ChildrenKey 子节点键值
    */
   export function TreeSinglePathFromId(TreeArr: TreeItem[], Key: string, IdKey: string, IdPath: any[], ChildrenKey: string = 'children') {
-    let Path = []
+    let Path:any[] = []
     function FindPath(A: TreeItem[], level: number) {
       A.forEach(it => {
         if (it[IdKey] === IdPath[level]) {
