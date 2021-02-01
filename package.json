@@ -1,0 +1,16 @@
+{
+  "name": "tree-dealer",
+  "version": "1.0.0",
+  "description": "deal with the tree data",
+  "main": "index.ts",
+  "scripts": {
+    "build": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^4.0.3"
+  },
+  "keywords": ["tree-data"],
+  "author": "linnairen@qq.com",
+  "license": "ISC"
+}
