@@ -155,5 +155,5 @@ export namespace Tree {
 }
 
 export default {
-  Tree
+  Tree: Tree
 }
