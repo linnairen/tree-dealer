@@ -1,7 +1,7 @@
 /**
  * 树形数据工具集
  */
-namespace Tree {
+export namespace Tree {
   /**
    * 树元素
    */
