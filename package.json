@@ -1,6 +1,6 @@
 {
   "name": "tree-dealer",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "deal with the tree data",
   "main": "./src/index.js",
   "scripts": {},
